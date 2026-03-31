@@ -1,0 +1,26 @@
+ body{
+
+            background-image:url(344840-Jett-Valorant-Video-Game.jpg);
+            text-align: center;
+        }
+
+.box{
+    width: 300px;
+    height: 420px;
+    margin: 100px auto;
+    background-color: #ffffffa6;
+    border-radius: 30px;
+}
+    h1{
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.932);
+}
+a{
+    text-decoration: none;
+}
+p{
+    color: black;
+}
+div{
+    border-radius: 30px;
+}
